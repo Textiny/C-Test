@@ -18,6 +18,6 @@ switch (x)
     Console.WriteLine("x = 5000");
     break;
   default:
-    Console.WriteLine("----------------")
+    Console.WriteLine("----------------");
     break;
 }
